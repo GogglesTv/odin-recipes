@@ -1,0 +1,21 @@
+.lasagna {
+    height: 300px;
+    width: 400px;
+}
+
+#description {
+    font-weight: 800;
+}
+
+#ingredients {
+    font-weight: bold;
+    color: red;
+}
+
+.heading {
+    text-decoration: underline;
+    font-size: 30px;
+}
+.extra {
+    font-weight: bold;
+}
